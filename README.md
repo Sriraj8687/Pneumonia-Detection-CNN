@@ -1,5 +1,5 @@
 # Pneumonia Detection Using CNN 
-
+ 
 This repository contains a Convolutional Neural Network (CNN) model to detect pneumonia from chest X-ray images using deep learning. The model was trained and evaluated using the Kaggle Chest X-ray dataset.
 
 ## Problem Statement
